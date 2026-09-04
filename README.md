@@ -1,13 +1,127 @@
-# 💫 About Me:
-I'm a professional .Net developer with over 11+ years of experience in .NET ecosystem<br><br>🎯 11+ Years of Expertise in the .NET Ecosystem<br><br>👨‍💻 My Technical Skills Include:<br>🔹 Programming Languages: C#, VB.Net<br>🔹 Web Development: ASP.NET MVC, Web Forms, Razor, .NET Core, Web API, Web Services<br>🔹 Desktop Applications: WinForms<br>🔹 Front-End Development: HTML, JQuery, JavaScript, Ajax, React.js, BootStrap, Tailwind CSS<br>🔹 ORM Tools: Entity Framework, Dapper, ADO.NET<br>🔹 Databases: MS SQL Server, MySQL<br>🔹 Report : RDLC, RPT, SSRS<br>🔹 Version Control: GitHub, Azure DevOps<br>🔹 Project Management Tools: Jira, Asana, Trac<br>🔹 Other Tools: SSIS, AWS, S3 , Microsoft Blob <br><br>🎯 I excel in troubleshooting and debugging: My extensive experience across various applications has sharpened my ability to identify and resolve complex issues efficiently.<br><br>🛠️ Meticulous and Detail-Oriented: I approach every project with patience and a thorough eye for detail, ensuring precision in every task.<br><br>⏳ Flexible Software Services: From quick one-hour tasks to full-time engagements and long-term collaborations, I offer tailored software solutions that meet diverse client needs.<br><br>📝 Responsibilities:<br><br>🔹 Clearly define project details and requirements<br>🔹 Interpret and translate business needs into technical solutions<br>🔹 Deliver quality technical solutions<br>🔹 Develop high-fidelity wireframes<br>🔹 Strategize and plan projects effectively<br>🔹 Advocate for stakeholders throughout the project lifecycle<br>🔹 Lead and manage projects to successful completion<br><br><br><br>
+# Hi, I'm Biren Mistry
+
+### Senior Full Stack Developer | SaaS Development | AI-SDLC Engineering & Evaluation | Legacy Modernization
+
+**13+ years of software engineering experience** building, modernizing, and troubleshooting business-critical applications across the Microsoft ecosystem.
+
+My foundation is in **.NET and full-stack engineering**, with experience spanning SaaS products, enterprise applications, APIs, databases, cloud infrastructure, and legacy systems.
+
+Today, I'm extending that experience into **AI-SDLC and AI Evaluation** - working with AI coding agents, evaluating software-engineering tasks, reviewing agent action plans, identifying gaps and hallucinations, and validating whether AI-generated solutions actually work in real codebases.
+
+I enjoy working where **software engineering, complex problem-solving, and AI meet**.
+
+---
+
+## What I Work On
+
+**Full Stack & SaaS**
+Designing and developing scalable web applications, APIs, business systems, and SaaS products.
+
+**Legacy Modernization**
+Understanding established applications and incrementally modernizing architecture, code, APIs, and infrastructure while preserving business behavior, as well COBOL-to-modern technology migration.
+
+**AI-SDLC & Evaluation**
+Evaluating AI coding agents against real software-engineering tasks - from requirement understanding and repository analysis to implementation, testing, debugging, and final validation.
+
+**Engineering & Troubleshooting**
+Finding root causes in complex systems, improving reliability, and turning ambiguous technical problems into practical solutions.
+
+---
+
+## AI & Agentic Engineering
+
+My current focus is on making AI-assisted software development **measurable, reliable, and useful in real engineering environments**.
+
+* AI-assisted software development & code generation
+* AI coding agent evaluation
+* Prompt Engineering
+* Agent Action Plan (AAP) review
+* Gap analysis & hallucination detection
+* Repository-level engineering tasks
+* Codebase analysis and validation
+* Terminal-Bench
+* Claude Code custom commands
+* RAG
+* Azure AI
+* Microsoft Bot Framework
+* AWS Textract
+
+---
+
+## Technology
+
+**Backend:** C#, VB.NET, .NET Framework, .NET Core, .NET 8–10, ASP.NET, ASP.NET MVC, Web API, Entity Framework, LINQ, Dapper, ADO.NET, Python, Node.js
+
+**Frontend:** JavaScript, TypeScript, React, Next.js, Vue 3, Angular, jQuery, HTML5, CSS3, Bootstrap
+
+**Desktop:** WPF, WinForms
+
+**Data:** MSSQL, MySQL, NoSQL, PostgreSQL, pgVector, SQLite, Database Design & Optimization, SSIS
+
+**Cloud & Infrastructure:** AWS, ECS/Fargate, S3, LocalStack, Azure, Docker, IIS, CI/CD, DevOps
+
+**Reporting & BI:** Crystal Reports, RDLC, SSRS, DevExpress, Business Intelligence
+
+**Tools:** Git, GitHub, Jira, Asana, Docker, Visual Studio, VS Code, CLI / Terminal Workflows, Claude Code, Cursor Agent, Codex, Grok, OpenCode
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biren-mistry) 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Enterprise & SaaS Experience
 
-[![](https://visitcount.itsvg.in/api?id=biren9559&icon=0&color=0)](https://visitcount.itsvg.in)
+Over the years, I've worked across:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Enterprise business applications
+- School/education ERP systems
+- SaaS platforms
+- Financial/trading applications
+- Social media analytics
+- AI-powered applications
+- Legacy ASP.NET applications
+- Modern cloud applications
+- API-driven systems
+
+I enjoy working on difficult existing systems where understanding the business logic is just as important as writing new code.
+
+---
+
+### AI-Driven Software Development / Evaluation
+
+I work with AI-generated codebases and evaluate whether the implementation actually satisfies the intended requirements.
+
+This includes:
+
+- Reviewing AI-generated architectures and implementations
+- Comparing generated code against requirements and build specifications
+- Identifying implementation gaps
+- Tracing defects back to prompts/specifications
+- Designing automated tests
+- Reviewing security vulnerabilities
+- Performing module-level deep dives
+- Refining prompts and implementation plans
+- Validating modernization projects
+- Docker-based environments
+- Precise technical requirements
+- Difficult real-world edge cases
+- Reference/solution implementations
+- Automated tests and verification
+- Deterministic validation
+- Failure cases and meaningful traps
+
+---
+
+## Engineering Philosophy
+
+> **Understand first. Build carefully. Test thoroughly. Validate continuously.**
+
+I believe good software engineering is not just about writing code.
+
+It's about understanding the problem, identifying edge cases, choosing the right architecture, keeping existing systems stable, and making sure the final implementation actually behaves as expected.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/biren-mistry) · [Email](mailto:birenmistry9@gmail.com)
+
+
